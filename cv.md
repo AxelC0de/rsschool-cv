@@ -18,3 +18,12 @@ I have been doing programming as my main hobby for 6+ months, taking 1-2 hours p
 * Photoshop
 * Illustrator
 * Figma
+
+## Code examples:
+ 1. https://github.com/AxelC0de
+ 2. https://learn.javascript.ru/profile/axelc0de/account
+ 3. https://www.codewars.com/users/AxelC0de
+
+## Languages:
+* English - C2
+* Russian - native speaker
