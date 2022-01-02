@@ -19,3 +19,31 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelc0de.github@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axelc0de)
 ---
+
+## 🙇‍♂️ Skills and Proficiency:
+
+* HTML
+* CSS (Preprocessor SCSS, BEM methodology).
+* JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON
+* Figma
+* Markdown
+* Node.js
+* Version control: Git (remote service GitHub).
+* VS Code
+* Windows OS + SubLinux, Linux(Ubuntu)
+* Photoshop
+* Illustrator
+
+---
+## 💻 Code Example
+
+```var FilterString = function(value) {
+  var result = "";
+  for(var i = 0; i < value.length; i++){
+    if(!isNaN(value[i]))
+      result += value[i];
+  }
+  return parseInt(result);
+}
+```
+---
