@@ -64,4 +64,122 @@
 					</div>
 				</div>
 			</section>
-			
+			<section class="right-section">
+
+				<div class="right-main-content">
+
+					<div class="right-main-content_header">
+						<a href="https://www.codewars.com/users/AxelC0de/badges/large"><img src="assets/codewars.svg" alt="codewars"></a> <br>
+						<abbr>Practice makes perfect</abbr>
+					</div>
+
+					<div class="right-main-content_main">
+						<div class="Skills and Proficiency"></div>
+						<h2 class="right-title">🙇‍♂️ Skills and Proficiency</h2>
+						<p>
+						<ul class="skills-list">
+							<li>HTML, CSS (SCSS, BEM), Markdown</li>
+							<li>JavaScript (Fundamentals, ES6+, DOM), JSON</li>
+							<li>Figma, Photoshop, Illustrator</li>
+							<li>Version control: Git (remote service GitHub)</li>
+							<li>Windows OS + SubLinux, Linux(Ubuntu), VS Code</li>
+						</ul>
+						</p>
+					</div>
+
+					<div class="code-example">
+						<h2 class="right-title">💻 Code Example</h2>
+						<code>var FilterString = function(value) {
+							var result = "";
+							for(var i = 0; i < value.length; i++){ if(!isNaN(value[i])) result +=value[i]; } return parseInt(result); }</code>
+							</div>
+
+					</div>
+
+					<div class="Courses-and-books">
+						<h2 id="-courses--books">📖 Courses &amp; Books</h2>
+						<ul>
+							<li>
+								<h3 id="markdown">Markdown</h3>
+								<ul>
+									<li><a
+											href="https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">Basic
+											writing and formatting syntax</a></li>
+									<li><a href="https://commonmark.org/help/tutorial/">Commonmark</a></li>
+									<li><a href="https://www.markdowntutorial.com/">Markdowntutorial</a></li>
+									<li><a href="https://www.markdownguide.org/book/">The Markdown Guide By Matt Cone</a></li>
+									<li><a href="https://masteringmarkdown.com/">Mastering Markdown</a></li>
+									<li><a
+											href="https://www.udemy.com/course/markdown-write-html-ready-content-in-ghost-other-web-tools/">Markdown:
+											Learn to Write HTML-Ready Content in ANY Web Tool! Udemy</a></li>
+								</ul>
+							</li>
+							<li>
+								<h3 id="bash">Bash</h3>
+								<ul>
+									<li><a href="https://ru.hexlet.io/courses/cli-basics">Основы командной строки Хекслет</a></li>
+									<li><a href="https://younglinux.info/bash/linuxfolder">Введение в Linux и Bash YoungLinux</a></li>
+								</ul>
+							</li>
+							<li>
+								<h3 id="html">HTML</h3>
+								<ul>
+									<li><a href="https://ru.code-basics.com/languages/html">HTML для начинающих Хекслет</a></li>
+									<li><a href="https://webref.ru/course/html-basics">Основы HTML Webref</a></li>
+									<li><a href="https://webref.ru/course/html-content">Содержимое в HTML Webref</a></li>
+									<li><a href="https://webref.ru/course/html-tutorial">Самоучитель HTML Webref</a></li>
+									<li><a href="https://webref.ru/course/section">Разделы веб-страницы Webref</a></li>
+									<li><a href="https://webref.ru/course/html5-form">Формы в HTML Webref</a></li>
+								</ul>
+							</li>
+							<li>
+								<h3 id="основы-работы-с-chrome-dev-tools-и-vs-code">Основы работы с Chrome Dev Tools и VS Code</h3>
+								<ul>
+									<li><a href="https://webref.ru/course/introduction">Введение в Интернет Webref</a></li>
+									<li><a href="https://itchief.ru/javascript/vscode-setup">Настройка VS Code для разработки на
+											JavaScript
+											ИТШЕФ</a></li>
+									<li><a href="https://habr.com/ru/post/490754/">Редактор кода Visual Studio Code. Самый подробный гайд
+											по настройке и установке плагинов для начинающих FreelancerLifeStyle</a></li>
+									<li><a href="https://www.youtube.com/watch?v=nd2VYxOsOwY">Browsers. IDEs. Web Technologies
+											RSSchool</a></li>
+								</ul>
+							</li>
+							<li>
+								<h3 id="css">CSS</h3>
+								<ul>
+									<li><a href="https://ru.code-basics.com/languages/css">CSS для начинающих Хекслет</a></li>
+									<li><a href="https://webref.ru/course/css-basics">Основы CSS Webref</a></li>
+									<li><a href="https://flukeout.github.io/">CSS Diner</a></li>
+								</ul>
+							</li>
+							<li>
+								<h3 id="git">GIT</h3>
+								<ul>
+									<li><a
+											href="https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages#%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2_%D0%BD%D0%B0_github">GitHub
+											Pages</a></li>
+									<li><a href="https://pages.github.com/">What is GitHub Pages?</a></li>
+									<li><a href="https://learngitbranching.js.org/?demo=&amp;locale=ru_RU">Learn git branching</a></li>
+									<li><a
+											href="https://docs.rs.school/#/git-convention?id=%d0%a2%d1%80%d0%b5%d0%b1%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%ba-%d0%b8%d0%bc%d0%b5%d0%bd%d0%b0%d0%bc-%d0%ba%d0%be%d0%bc%d0%bc%d0%b8%d1%82%d0%be%d0%b2">Требования
+											к именам коммитов</a></li>
+									<li><a href="https://uleming.github.io/gitbook/index.html">The Git Community Book</a></li>
+									<li><a
+											href="https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9">Основы
+											Git. Учебник</a></li>
+									<li><a
+											href="https://www.evernote.com/shard/s368/client/snv?noteGuid=b1359883-2b9e-419a-b9de-dd959fc05f05&amp;noteKey=97c0f19486d851b3&amp;sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs368%2Fsh%2Fb1359883-2b9e-419a-b9de-dd959fc05f05%2F97c0f19486d851b3&amp;title=Git">Конспект
+											по Git</a></li>
+									<li><a href="https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb">Git: курс
+											JavaScript.ru</a></li>
+									<li><a href="https://www.youtube.com/playlist?list=PLDyvV36pndZEgSRzWGuXFrTRUFuAAMciE">Крэш-курс по
+											Git и Github JavaScript.ru</a></li>
+									<li><a href="https://www.youtube.com/playlist?list=PLDyvV36pndZEB7kWWocU4QSn-G78LoaEE">Git: разное
+											JavaScript.ru</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+			</section>
+		</main>
