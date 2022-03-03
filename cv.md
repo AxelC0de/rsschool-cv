@@ -2,7 +2,7 @@
 >***Practice makes perfect***
 
 
-#  Alexey Grigoriev
+#  Alexey Petrov
 ![CodeWars](https://www.codewars.com/users/AxelC0de/badges/small?theme=light)
 
 ## Briefly About Myself:
